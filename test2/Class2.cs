@@ -7,6 +7,9 @@ namespace test2
     class Class2
     {
         public string test;
-      
+        public void yu()
+        {
+            string test;
+        }
     }
 }
