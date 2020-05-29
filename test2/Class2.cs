@@ -6,5 +6,10 @@ namespace test2
 {
     class Class2
     {
+        public string test;
+        public void test2()
+        {
+
+        }
     }
 }
